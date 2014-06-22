@@ -1,5 +1,7 @@
 # Getting and Cleaning Data 
 
+NOTE: Much content from here was taken from the sources at [1] and [2]
+
 ## Course Project
 
 Human Activity Recognition Using Smartphones Dataset [1]
@@ -8,14 +10,9 @@ Human Activity Recognition Using Smartphones Dataset [1]
 
 The source data set represents data collected from the accelerometers from the Samsung Galaxy S smartphone. The data set archive can be downloaded from:
 
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Data Set URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
-
-The data in this project represent data collected from the accelerometers from
-the Samsung Galaxy S smartphone.
-
-Data Set URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The data is made available by Reyes-Ortiz, Anguita, Ghio, and Oneto from the
 Smartlab Non Linear Complex Systems Laboratory in Genoa, Italy.
@@ -28,9 +25,7 @@ Use of this dataset in publications must be acknowledged by referencing the foll
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L.  Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
-For more information please visit:
-
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+For more information please visit [2]
 
 ## Source Files
 
@@ -84,4 +79,6 @@ Results were output as an indepenent tidy data set at ./data/TidyDataSet.txt
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+[2] http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
