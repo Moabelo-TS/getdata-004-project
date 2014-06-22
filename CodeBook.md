@@ -15,7 +15,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 The data in this project represent data collected from the accelerometers from
 the Samsung Galaxy S smartphone.
 
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip][data]
+Data Set URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The data is made available by Reyes-Ortiz, Anguita, Ghio, and Oneto from the
 Smartlab Non Linear Complex Systems Laboratory in Genoa, Italy.
